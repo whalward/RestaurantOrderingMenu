@@ -1,0 +1,10 @@
+
+		Bill Information
+----------------------------------
+Total of all items:			$10.00
+Total senior discounts:		-$1.00
+Taxes:						+$0.54
+Subtotal:					 $10.54
+Gift card amount applied:	-$9.54
+							------
+				Bill:		$0.00
